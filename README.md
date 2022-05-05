@@ -1,0 +1,1 @@
+# myversion-maven-plugin-example
