@@ -2,6 +2,6 @@
     <extension>
         <groupId>io.github.tomaslad</groupId>
         <artifactId>myversion-maven-plugin</artifactId>
-        <version>8</version>
+        <version>9</version>
     </extension>
 </extensions>
