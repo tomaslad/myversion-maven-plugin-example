@@ -6,7 +6,7 @@
 
     <groupId>org.example</groupId>
     <artifactId>myversion-maven-plugin-example</artifactId>
-    <version>${MY_VERSION}</version>
+    <version>MY_VERSION</version>
 
     <properties>
         <maven.compiler.source>14</maven.compiler.source>
@@ -18,7 +18,7 @@
             <plugin>
                 <groupId>io.github.tomaslad</groupId>
                 <artifactId>counter-maven-plugin</artifactId>
-                <version>4</version>
+                <version>6</version>
             </plugin>
         </plugins>
     </build>

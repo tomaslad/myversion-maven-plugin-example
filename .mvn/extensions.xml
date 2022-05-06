@@ -2,6 +2,6 @@
     <extension>
         <groupId>io.github.tomaslad</groupId>
         <artifactId>counter-maven-plugin</artifactId>
-        <version>4</version>
+        <version>6</version>
     </extension>
 </extensions>
