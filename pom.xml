@@ -17,8 +17,8 @@
         <plugins>
             <plugin>
                 <groupId>io.github.tomaslad</groupId>
-                <artifactId>counter-maven-plugin</artifactId>
-                <version>6</version>
+                <artifactId>myversion-maven-plugin</artifactId>
+                <version>8</version>
             </plugin>
         </plugins>
     </build>
